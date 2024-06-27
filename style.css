@@ -1,0 +1,17 @@
+body {
+    background-color: #67E667;
+}
+
+a {
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    margin-top: 300px;
+    border: solid #FF7373 5px;
+    padding: 20px;
+    border-radius: 50px;
+    color: white;
+}
+a:hover {
+    background-color: #FF7373;
+}
