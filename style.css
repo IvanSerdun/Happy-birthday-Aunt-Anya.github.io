@@ -11,6 +11,7 @@ a {
     padding: 20px;
     border-radius: 50px;
     color: white;
+    font-size: 50px;
 }
 a:hover {
     background-color: #FF7373;
